@@ -79,10 +79,10 @@ const avg_temperature_in_fahrenheit = tot_temperature_in_fahrenheit / 30
 const avg_temperature_in_celsius = tot_temperature_in_celsius / 30
 
 //! Console.log the results for your inspection
-console.log("Total temperature in Fahrenheit:", Math.floor(tot_temperature_in_fahrenheit));
-console.log("Total temperature in Celsius:", Math.floor(tot_temperature_in_celsius));
-console.log("Average temperature in Fahrenheit:", Math.floor(avg_temperature_in_fahrenheit));
-console.log("Average temperature in Celsius:", Math.floor(avg_temperature_in_celsius));
+console.log("Total temperature in Fahrenheit:", tot_temperature_in_fahrenheit);
+console.log("Total temperature in Celsius:", tot_temperature_in_celsius);
+console.log("Average temperature in Fahrenheit:", avg_temperature_in_fahrenheit);
+console.log("Average temperature in Celsius:", avg_temperature_in_celsius);
 
 //* Export the variables for tests
 module.exports = {
