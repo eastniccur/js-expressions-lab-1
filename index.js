@@ -1,3 +1,4 @@
+
 //! Start by creating the variables for the data recorded
 const day1TempC = (32 - 32) * 5 / 9
 const day2TempC = 25

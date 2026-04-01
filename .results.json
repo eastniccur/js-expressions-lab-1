@@ -5,15 +5,15 @@
     "passes": 8,
     "pending": 0,
     "failures": 0,
-    "start": "2026-03-31T20:31:35.572Z",
-    "end": "2026-03-31T20:31:36.043Z",
-    "duration": 471
+    "start": "2026-04-01T08:18:31.733Z",
+    "end": "2026-04-01T08:18:33.719Z",
+    "duration": 1986
   },
   "tests": [
     {
       "title": "is a floating number",
       "fullTitle": "index.js tot_temperature_in_fahrenheit is a floating number",
-      "duration": 1,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -27,21 +27,21 @@
     {
       "title": "is a floating number",
       "fullTitle": "index.js tot_temperature_in_celsius is a floating number",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is accurate with a tolerance of 0.2 degrees",
       "fullTitle": "index.js tot_temperature_in_celsius is accurate with a tolerance of 0.2 degrees",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a floating number",
       "fullTitle": "index.js avg_temperature_in_fahrenheit is a floating number",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -55,14 +55,14 @@
     {
       "title": "is a floating number",
       "fullTitle": "index.js avg_temperature_in_celsius is a floating number",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is accurate with a tolerance of 0.2 degrees",
       "fullTitle": "index.js avg_temperature_in_celsius is accurate with a tolerance of 0.2 degrees",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -73,7 +73,7 @@
     {
       "title": "is a floating number",
       "fullTitle": "index.js tot_temperature_in_fahrenheit is a floating number",
-      "duration": 1,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,21 +87,21 @@
     {
       "title": "is a floating number",
       "fullTitle": "index.js tot_temperature_in_celsius is a floating number",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is accurate with a tolerance of 0.2 degrees",
       "fullTitle": "index.js tot_temperature_in_celsius is accurate with a tolerance of 0.2 degrees",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a floating number",
       "fullTitle": "index.js avg_temperature_in_fahrenheit is a floating number",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -115,14 +115,14 @@
     {
       "title": "is a floating number",
       "fullTitle": "index.js avg_temperature_in_celsius is a floating number",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is accurate with a tolerance of 0.2 degrees",
       "fullTitle": "index.js avg_temperature_in_celsius is accurate with a tolerance of 0.2 degrees",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
